@@ -52,6 +52,9 @@ BilldDesk Pro | [BilldDesk 开源版](./README_OpenSource.md)
 - [x] 剪贴板同步
 - [x] 分辨率同步
 - [x] 文件传输
+  - [x] 主控->被控
+  - [x] 主控<-被控
+- [x] 远程开机（WOL）
 - [x] 系统托盘
 - [x] 开机自启（无人值守）
 - [x] 进程保活（windows）
